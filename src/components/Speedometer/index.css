@@ -1,0 +1,29 @@
+/* Write your CSS here */
+img {
+  width: 500px;
+  height: 500px;
+}
+.main {
+  background-color: black;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.t1 {
+  color: #ffffff;
+}
+.t2 {
+  color: #cbd5e1;
+}
+.btn1 {
+  background-color: #0b69ff;
+  border-radius: 2px;
+}
+.btn2 {
+  background-color: black;
+  color: #cbd5e1;
+  border: 2px solid #cbd5e1;
+  border-radius: 2px;
+}
